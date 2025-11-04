@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLM", "LLM\LLM.csproj", "{55A238CD-E5D8-4F4B-AC16-653252FD894B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Images", "Images\Images.csproj", "{23781A30-9DCB-41F8-BD5C-5A9A8D476ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A238CD-E5D8-4F4B-AC16-653252FD894B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A238CD-E5D8-4F4B-AC16-653252FD894B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A238CD-E5D8-4F4B-AC16-653252FD894B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A238CD-E5D8-4F4B-AC16-653252FD894B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23781A30-9DCB-41F8-BD5C-5A9A8D476ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23781A30-9DCB-41F8-BD5C-5A9A8D476ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23781A30-9DCB-41F8-BD5C-5A9A8D476ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23781A30-9DCB-41F8-BD5C-5A9A8D476ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {501845E3-D4C3-4F5C-8D72-0C15381DF32E}
+	EndGlobalSection
+EndGlobal
